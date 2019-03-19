@@ -7,6 +7,7 @@ Created on Sat Mar 16 17:51:36 2019
 
 import geopandas as gpd
 import numpy as np
+import special_dataset as sd
 
 def get_list_of_codes():
     
@@ -34,5 +35,6 @@ def get_list_of_codes():
     print('Size of array: ' + str(uniq_grouped.size))
     print('Shape of array: ' + str(uniq_grouped.shape))
     
+    sd.make_df(num_array)
 
 get_list_of_codes()
