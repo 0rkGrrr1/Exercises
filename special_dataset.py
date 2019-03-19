@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 18 16:12:55 2019
 
-@author: Nastia
+@author: Nastia aka Anastasija Litvinionok nlitvinionok@gmail.com
 """
 
 import pandas as pd

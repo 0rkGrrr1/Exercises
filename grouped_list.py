@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 16 17:51:36 2019
 
-@author: Nastia aka Anastasija Litvinionok
+@author: Nastia aka Anastasija Litvinionok nlitvinionok@gmail.com
 """
 
 import geopandas as gpd
