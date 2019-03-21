@@ -1,4 +1,4 @@
-# Exercise in Python progrmming
+# Exercise in Python programming
 # Task:
 # 1. Draw a map of Norway post codes map from given data ("Basisdata..." files).
 # 2. Retrieve all unique codes.
